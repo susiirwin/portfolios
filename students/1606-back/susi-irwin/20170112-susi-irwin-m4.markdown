@@ -244,6 +244,8 @@ I had heard of this before, but never really dug into it. It was a great session
 
 * From Raphael Barbo - "Susi is one of the most resilient and self-motivated people I have had the opportunity to work with. Her dedication throughout her time at Turing has been nothing short of remarkable, and it has paid off big time. Susi has certainly become a great software developer, and I am glad to have been able to share this journey with her."
 
+* From Bailey Ward - "Susi was a wonderful introduction to Turing. As my pre-work guide we got together before classes even began and she spent time calming my nerves and answering my questions. Susi helped me get settled into the flow of things and really made me feel at home. She is the sweetest, most positive person I have ever had the chance to work around. I know she will brighten up each place that is lucky enough to get her."
+
 ### Being a Community Member and Playing a Part
 
 Try Turing - I have participated in two Try Turing Panels and have really enjoyed sharing my story with potential students. I enjoy talking about my school and my community. It is an amazing feeling to have someone walk up to me the first week of the module and tell me that I was part of their decision to apply to Turing. It gives me goosebumps to think that I might have had a part in helping someone else make this huge decision to change their life.
